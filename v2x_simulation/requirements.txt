@@ -1,0 +1,6 @@
+carla==0.9.16
+numpy>=1.20.0
+# For real-time minimap visualization (optional, but recommended)
+# Install either pygame or Pillow (Pygame is preferred for interactive display)
+pygame>=2.0.0  # For interactive minimap window
+# Pillow>=8.0.0  # Alternative image library if Pygame unavailable

@@ -1,0 +1,16 @@
+{
+  "configuration": {
+    "map": "Town01",
+    "traffic_density": 60,
+    "type_a_count": 20,
+    "type_b_count": 20,
+    "type_c_count": 20,
+    "v2x_range": 150.0,
+    "num_runs": 1,
+    "storm_enabled": true,
+    "ambulance_start_waypoint": 0,
+    "ambulance_end_waypoint": 231,
+    "timestamp": "2026-04-22T00:24:17.027230"
+  },
+  "results": []
+}

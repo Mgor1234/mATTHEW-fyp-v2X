@@ -1,0 +1,30 @@
+{
+  "configuration": {
+    "map": "Town01",
+    "traffic_density": 36,
+    "type_a_count": 12,
+    "type_b_count": 12,
+    "type_c_count": 12,
+    "v2x_range": 150.0,
+    "num_runs": 1,
+    "storm_enabled": false,
+    "ambulance_start_waypoint": 11,
+    "ambulance_end_waypoint": 86,
+    "timestamp": "2026-05-06T00:17:46.798036"
+  },
+  "results": [
+    {
+      "run_number": 1,
+      "trip_duration": 39.733333333333334,
+      "trip_distance": 198.0680074923439,
+      "average_speed": 4.984933074471742,
+      "vehicles_spawned": 36,
+      "type_a_spawned": 12,
+      "type_b_spawned": 12,
+      "type_c_spawned": 12,
+      "real_time_elapsed": 50.47945308685303,
+      "trip_complete": true,
+      "timestamp": "2026-05-06T00:17:46.642298"
+    }
+  ]
+}

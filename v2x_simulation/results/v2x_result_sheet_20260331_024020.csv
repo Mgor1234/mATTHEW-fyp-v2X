@@ -1,0 +1,20 @@
+Section,Field,Value
+Configuration,Map,Town01
+Configuration,Traffic Total,60
+Configuration,Type A Count,20
+Configuration,Type B Count,20
+Configuration,Type C Count,20
+Configuration,V2X Range (m),150.0
+Configuration,Storm Enabled,True
+Configuration,Ambulance Start Waypoint,186
+Configuration,Ambulance End Waypoint,123
+
+Summary,Average Trip Duration (s),26.150
+Summary,Min Trip Duration (s),26.150
+Summary,Max Trip Duration (s),26.150
+Summary,Std Dev Trip Duration (s),0.000
+Summary,Average Trip Distance (m),330.208
+Summary,Average Speed (m/s),12.627
+
+Runs,Run Number,Trip Duration (s),Trip Distance (m),Average Speed (m/s),Type A Spawned,Type B Spawned,Type C Spawned,Trip Complete
+Runs,1,26.150,330.208,12.627,20,20,20,True
